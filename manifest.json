@@ -2,7 +2,7 @@
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "name": "standalone",
-  "short-name":"st",
+  "short_name":"st",
   "Scope": "/",
   "start_url": "/",
   "icons": [
