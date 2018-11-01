@@ -1,0 +1,17 @@
+{
+    "name":"Mis Actividades diarias",
+    "short_name":"Actividades",
+    "lang":"es-AR",
+    "start_url":"/",
+    "display":"standalone",
+    "theme_color":"#65FF4B",
+    "background_color": "#65FF4B",
+
+    "icons":[
+        {
+            "src":"img/icons/icono.png",
+            "size":"512x512"
+        }
+    ]
+
+}
